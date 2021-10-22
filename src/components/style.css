@@ -1,0 +1,46 @@
+.App{
+      max-width: 567px;
+    width: 100%;
+    min-height: 400px;
+    box-shadow: 0 2px 9px #58a;
+    margin: 50px auto;
+    padding: 32px;
+    background-color: gainsboro;
+}
+
+input{
+        border-radius: 20px;
+    padding: 15px;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    
+    margin-top: 16px;
+    margin-bottom: 7px;
+    margin-left: 27px;
+    border-radius: 10px;
+    padding: 15px;
+    background: linen;
+}
+
+#lines{
+    border: solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 189px;
+    padding-right: 189px;
+
+}
+
+#head{
+    font-size: 40px;
+    border: solid black;
+    padding: 30px;
+    padding-left: 175px;
+    font-weight: 1000;
+    background-color: seagreen;
+}
+
